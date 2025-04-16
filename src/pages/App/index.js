@@ -1,6 +1,6 @@
 import { useRoutes, BrowserRouter } from "react-router-dom";
 import { ShoopingCartProvider } from "../../contexts";
-import Home from "./../Home/index";
+import Home from "../Home/index";
 import MyAccount from "../MyAccount";
 import MyOrder from "../MyOrder";
 import MyOrders from "../MyOrders";
